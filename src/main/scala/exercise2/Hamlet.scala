@@ -1,4 +1,4 @@
-package exercise1
+package exercise2
 
 object Hamlet {
   trait PrettyPrintable {

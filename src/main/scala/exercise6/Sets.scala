@@ -1,4 +1,4 @@
-package exercise3
+package exercise6
 
 object Sets {
   type Set = Int => Boolean

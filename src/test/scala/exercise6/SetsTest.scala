@@ -1,4 +1,4 @@
-package exercise3
+package exercise6
 
 import org.scalatest.{FlatSpec, Matchers}
 
