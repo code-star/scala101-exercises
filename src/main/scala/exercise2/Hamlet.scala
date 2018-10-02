@@ -1,6 +1,6 @@
 package exercise2
 
-object Hamlet {
+object Hamlet extends App {
   trait PrettyPrintable {
     def prettyPrint: String
   }
